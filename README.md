@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning Python, React, React Native</p>
+<p align="center">🌱 I’m currently learning Python, React and React Native.</p>
 
 ###
 

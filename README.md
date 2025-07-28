@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning Python and React.</p>
+<p align="center">🌱 I’m currently working at [Dionamite](https://dionamite.com/)</p>
 
 ###
 

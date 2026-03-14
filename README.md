@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">🌱 I’m currently working at Dionamite</p>
+<p align="center">🌱 I’m currently looking for a new position.</p>
 
 ###
 
